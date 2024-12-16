@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saiyam Kumar</h1>
 <h3 align="center">A visionary founder driving 5 startups, including DevItUp—a content marketing agency—and BAD TALKS, fostering CEO Summits and student placements. Passionate about crafting scalable solutions and building the Gen Lambda Community, I blend innovation, leadership, and adaptability to shape opportunities and redefine the future</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiyam0211" alt="saiyam0211" /></a> </p>
-
 - 🔭 I’m currently working on [DevItUp](https://www.devitup.in/)
 
 - 🌱 I’m currently learning **JavaScript**
