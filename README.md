@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiyam Kumar</h1>
-<h3 align="center">A visionary founder driving 5 startups, including DevItUp—a content marketing agency—and BADVERSE, fostering CEO Summits and student placements. Passionate about crafting scalable solutions and building the Gen Lambda Community, I blend innovation, leadership, and adaptability to shape opportunities and redefine the future</h3>
+<h3 align="center">Building the future, one line of code at a time.</h3>
 
 - 🔭 I’m currently working on [DevItUp](https://www.devitup.in/) & [BADVERSE](https://www.badverse.in/) 
 
@@ -9,11 +9,10 @@
 
 - 💬 Ask me about **Entrepreneurship, Frontend Development, Personal branding**
 
-- 📫 How to reach me **workforsaiyam@gmail.com**
+- 📫 How to reach me **saiyamkumar2007@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PaM7K4xJIWLVqXAsor_J8nRA0Ub-hCpO/view?usp=sharing](https://drive.google.com/file/d/1PaM7K4xJIWLVqXAsor_J8nRA0Ub-hCpO/view?usp=sharing)
 
-- ⚡ Fun fact **I'm just 17 y/o!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
