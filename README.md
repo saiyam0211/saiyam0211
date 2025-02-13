@@ -1,27 +1,35 @@
-<h1 align="center">Hi 👋, I'm Saiyam Kumar</h1>
-<h3 align="center">Building the future, one line of code at a time.</h3>
 
-- 🔭 I’m currently working on [DevItUp](https://www.devitup.in/) & [BADVERSE](https://www.badverse.in/) 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Saiyam Kumar. 👨‍💻
 
-- 🌱 I’m currently learning **JavaScript**
+I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
-- 👨‍💻 All of my projects are available at [https://www.devitup.in/](https://www.devitup.in/)
-
-- 💬 Ask me about **Entrepreneurship, Frontend Development, Personal branding**
-
-- 📫 How to reach me **saiyamkumar2007@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PaM7K4xJIWLVqXAsor_J8nRA0Ub-hCpO/view?usp=sharing](https://drive.google.com/file/d/1PaM7K4xJIWLVqXAsor_J8nRA0Ub-hCpO/view?usp=sharing)
+### 🔭 Have a look at my [website](https://devitup.in/).
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saiyamkumararora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiyamkumararora" height="30" width="40" /></a>
-<a href="https://instagram.com/fr_saiyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fr_saiyam" height="30" width="40" /></a>
-</p>
+## ⚡ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Here are a few things I've picked up along my learning journey.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiyam0211&show_icons=true&locale=en&layout=compact" alt="saiyam0211" /></p>
 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+  
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+
+## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/saiyam0211) || [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saiyam0211) || [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/saiyam0211)
+
+
+ or give some ♥ on [mail](mailto:saiyamkumar2007+approach@gmail.com) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=saiyam0211/saiyam0211)
+
+
+ 
