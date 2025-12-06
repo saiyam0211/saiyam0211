@@ -3,7 +3,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="http://linkedin.com/in/saiyam0211/" target="_blank">
@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiyam0211&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🟩 GitHub Streaks
+### GitHub Streaks
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saiyam0211&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
