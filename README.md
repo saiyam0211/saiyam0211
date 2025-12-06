@@ -29,9 +29,16 @@
 
 ---
 
+### GitHub Streaks
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saiyam0211&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+---
+
 ### Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saiyam0211/saiyam0211/output/snake.svg" alt="Snake animation" />
 </div>
-
