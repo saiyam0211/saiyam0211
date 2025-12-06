@@ -19,16 +19,6 @@
 
 ---
 
-### GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiyam0211&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiyam0211&theme=dracula&area=true&radius=16" height="300" />
-</div>
-
----
-
 ### GitHub Streaks
 
 <div align="center">
